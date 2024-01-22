@@ -18,6 +18,8 @@ import jp.ken.jdbc.groups.GroupOrder;
 import jp.ken.jdbc.model.MembersModel;
 import jp.ken.jdbc.model.MembersSearchModel;
 
+//平野メモ追加
+
 @Controller
 public class JdbcMembersController {
 	@Autowired
