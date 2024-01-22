@@ -3,7 +3,7 @@ controller/
 model/
 view/
 JdbcSample/.settings/
-JdbcSample/.target/
+JdbcSample/target/
 .classpath
 .project
 .springBeans
