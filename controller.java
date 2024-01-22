@@ -1,3 +1,5 @@
+//仮に平野編集します。
+
 
 //とりあえずコピペですがサンプルコード入れます
 package jp.ken.calculation.controller;
