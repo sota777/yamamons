@@ -19,6 +19,7 @@ import jp.ken.jdbc.model.MembersModel;
 import jp.ken.jdbc.model.MembersSearchModel;
 
 @Controller
+//メモ
 public class JdbcMembersController {
 	@Autowired
 	private MembersDaoImple membersDao;
